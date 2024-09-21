@@ -1,0 +1,36 @@
+.hero{
+    border: solid ;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+.footer{
+    background-color: black;
+    color: hsl(208, 68%, 50%);
+}
+.fr{
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 20px;
+    list-style-type:  none;
+}
+.se{
+    margin-left: 1000px;
+    margin-top: 30px;
+    font-size: 20px;
+    list-style-type: none;
+    color: hsl(0, 70%, 50%);
+}
+button{
+    
+    width: 250px; 
+    height: 50px; 
+    margin-top: 50px;
+}
+.to{
+    color: #faf8f8;
+    margin-top: 10px;
+    font-size: larger;
+    margin-top: 20px;
+}
